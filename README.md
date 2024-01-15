@@ -14,7 +14,7 @@ Based off OnsetGlaze (@abhidahal) and macOS (@cc46808)
 >Use bash or powershell terminal.
 
 ```Shell
-cd %APPDATA%/Roaming/FlowLauncher/Themes
+cd %APPDATA%/FlowLauncher/Themes
 curl -o macOSClean.xaml https://raw.githubusercontent.com/GalaxyNZ/macOSClean.flow/main/macOSClean.xaml
 curl -o macOSClean-Light.xaml https://raw.githubusercontent.com/GalaxyNZ/macOSClean.flow/main/macOSClean-Light.xaml
 ```
