@@ -13,7 +13,6 @@ Based off OnsetGlaze and macOS
 
 - Transparent blurred background effect.
 - Rounded Edges.
-- Custom Search Icon to mimic macOS.
 
 ## ⚙️ Installation
 
